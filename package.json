@@ -1,0 +1,25 @@
+{
+  "name": "octokit-gist-update",
+  "description": "Testing reading from and writing to a gist via Octokit/rest.",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "bugs": {
+    "url": "https://github.com/pdehaan/octokit-gist-update/issues"
+  },
+  "dependencies": {
+    "@octokit/rest": "^17.6.0",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/pdehaan/octokit-gist-update#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/octokit-gist-update.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
