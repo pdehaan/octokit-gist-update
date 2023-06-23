@@ -7,7 +7,7 @@
     "url": "https://github.com/pdehaan/octokit-gist-update/issues"
   },
   "dependencies": {
-    "@octokit/rest": "^17.6.0",
+    "@octokit/rest": "^19.0.13",
     "dotenv": "^8.2.0"
   },
   "devDependencies": {},
